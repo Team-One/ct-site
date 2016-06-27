@@ -215,12 +215,12 @@ a:focus {
 }
 
 #headerwrap h3, h5 {
-	color: black;
+	color: $ffffff;
 	font-weight: 400;
 }
 
 #headerwrap h1 {
-	color: black;
+	color: $ffffff;
 	margin-bottom: 25px;
 }
 
